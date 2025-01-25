@@ -2,7 +2,7 @@ import os
 import subprocess
 
 # Configuração do repositório
-repo_url = "https://github.com/seu-usuario/face_recognition_project.git"
+repo_url = "https://github.com/nbartulic/face_recognition_project_DIO/tree/dda3b5fc9d1654d866d54004a690a0d1b76ae432"
 commit_message = "First commit - Face Recognition Project"
 
 def run_command(command):
